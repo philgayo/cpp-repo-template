@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Build repository
+build
+
+# Generated files
+CMakeUserPresets.json
+
+# IDE
+.vscode
+
+# OS
+.DS_Store
